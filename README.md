@@ -112,6 +112,8 @@ Chat with us here on Discord:
       - [2.0.3.2 Service Behavior Versioning](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.%20Services.md#2032-service-behavior-versioning)
       - [2.0.3.3 Combined Model and Behavior Changes](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.%20Services.md#2033-combined-model-and-behavior-changes)
       - [2.0.3.4 Naming Conventions](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.%20Services.md#2034-naming-conventions)
+     - [2.0.4 Class Visibility and Exposure Control](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.%20Services.md#204-class-visibility-and-exposure-control)
+       - [2.0.4.0 Exception Visibility Rules](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.%20Services.md#2040-exception-visibility-rules)
   - [2.1 Foundation Services](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#21-foundation-services-broker-neighboring)
     - [2.1.0 Introduction](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#210-introduction)
     - [2.1.1 On The Map](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.1%20Foundations/2.1%20Foundations.md#211-on-the-map)
