@@ -342,7 +342,8 @@ Chat with us here on Discord:
 
 ## Projects
 - [The Standard OpenAI Library](https://github.com/hassanhabib/Standard.AI.OpenAI)
-- [LeVent](https://github.com/hassanhabib/LeVent)
+- [EventHighway](https://github.com/the-standard-organization/eventhighway)
+- [LeVent](https://github.com/The-Standard-Organization/LeVent)
 - [RESTFulSense](https://github.com/hassanhabib/RESTFulSense)
-- [Xeptions](https://github.com/hassanhabib/Xeption)
+- [Xeptions](https://github.com/The-Standard-Organization/Xeption)
 - [EFxceptions](https://github.com/hassanhabib/EFxceptions)
